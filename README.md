@@ -1,4 +1,4 @@
-# -200-People-Chinese-Speech-Data-by-Mobile-Phone
+# 200-People-Chinese-Speech-Data-by-Mobile-Phone
 https://www.datatang.ai/datasets/234
 
 ## Description

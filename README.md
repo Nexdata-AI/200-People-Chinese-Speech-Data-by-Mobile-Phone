@@ -1,8 +1,10 @@
 # 200-People-Chinese-Speech-Data-by-Mobile-Phone
-https://www.datatang.ai/datasets/234
+
 
 ## Description
 The dataset contains 200 Chinese native speakers, covering main dialect zones. It is recorded in both noisy and quiet environment and more suitable for the actual application scenario for speech recognition. The recordings are commonly used spoken sentences. Texts are transcribed by professional annotators. It can be used for speech recognition and machine translation.
+
+For more details, please refer to the link: https://bit.ly/3fh26fd
 
 ## Format
 16kHz, 16bit, uncompressed wav, mono channel
@@ -30,3 +32,7 @@ text
 
 ## Application scenarios
 speech recognition, voiceprint recognition
+
+# Licensing Information
+Commerical License: https://drive.google.com/file/d/1saDCPm74D4UWfBL17VbkTsZLGfpOQj1J/view?usp=sharing
+
